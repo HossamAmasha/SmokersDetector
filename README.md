@@ -1,6 +1,8 @@
 # 🚭 Smokers Detector using YOLOv11
 
 A computer vision project built with YOLOv11 to detect **smokers and smoking-related objects** in public spaces. Developed for the **CPCS331 course** at **King Abdulaziz University**.
+
+
 ![ExampleRun](https://github.com/user-attachments/assets/1ca354ac-9b5d-4704-af56-050cc36f0e1a)
 
 ---
